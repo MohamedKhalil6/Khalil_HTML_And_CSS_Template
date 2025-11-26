@@ -38,7 +38,7 @@ body {
     }
 }
 /* Large */
-@media (min-width: 1200) {
+@media (min-width: 1200px) {
     .container {
         width: 1170px;
     }
@@ -426,4 +426,5 @@ body {
     font-weight: bold;
     color: var(--main-color);
 }
+
 /* End Footer */
